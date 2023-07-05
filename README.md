@@ -9,7 +9,7 @@ SolarSystem  is a dynamic, educational project that I completed as part of the I
 
 ✨ Timeline: 1 week
 
-🔴 YouTube Demo: [Solar System Gameplay](https://www.google.com](https://youtu.be/GtmAc1zIBew))
+🔴 YouTube Demo: [Solar System Gameplay](https://youtu.be/GtmAc1zIBew)
 
     - Current version
     - Unity 2021.3.13
