@@ -1,9 +1,9 @@
-# SolarSystem_FirstUnityGame_CS_Jul09/22
+# UofT_CS_SolarSystem_May31/22
 ![image](https://user-images.githubusercontent.com/103016794/177175417-3e8c6207-e64f-458d-a008-fb2382d8129a.png)
 
 
 
-# 🚀 Solar System 🚀
+# 🚀 Solar System (My First Unity Game) 🚀
 
 SolarSystem  is a dynamic, educational project that I completed as part of the Introduction to Unity unit at Circuit Stream XR. Designed as a space exploration game, the project showcases a range of key Unity development features and coding techniques. I was a newbie here so nothing special. 
 
