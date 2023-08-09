@@ -23,7 +23,7 @@ SolarSystem  is a dynamic, educational project that I completed as part of the I
 
 
 <details>
- <summary><h3>👨‍💻 Controles and Actions</h3></summary>
+ <summary><h3>🎮 Controles and Actions</h3></summary>
     
  1. Flight Controls:
     - 'W' Key: Move your spaceship forward.
@@ -47,7 +47,7 @@ There's an Easter egg located on Mars. To find it, explore the Martian surface c
 </details>
 
 <details>
- <summary><h3>👨‍💻 How to Download</h3></summary>
+ <summary><h3>💻 How to Download</h3></summary>
 
 Step 1 : Click the Code button and choose Download as a Zip
 
@@ -62,7 +62,7 @@ Step 3 : Open Unity Hub. Click "Open" and choose the extracted folder
 </details>
 
 <details>
- <summary><h3>👨‍💻 More Info About Project</h3></summary>
+ <summary><h3>💻 More Info About Project</h3></summary>
 At the core of the game is a model of the solar system. Some of its parts were brought by using assets from Unity's Asset Store. However, these assets required customization to fit the project's needs. For instance, I had to adjust models to render double-sided materials in Unity and add extra faces where needed. Some models, unsuitable in their original form, were extensively modified using Blender to meet the game's specifications. These modifications showcase my gained adaptability and skills in navigating and customizing resources in Unity's ecosystem.
 
 The gameplay mechanics incorporate a ship controller programmed directly in the Unity environment. The ship controller was created to offer interactive, real-time navigation across the solar system, demonstrating the use of scripts to control player movement and inputs.
